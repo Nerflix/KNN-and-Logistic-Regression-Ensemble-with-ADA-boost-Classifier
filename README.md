@@ -1,4 +1,6 @@
 # KNN-and-Logistic-Regression-Ensemble-with-ADA-boost-Classifier
+Machine learning pipeline in Python predicting industrial machine failures on a 136,429-row synthetic dataset. Ensemble model combining K-Nearest Neighbours, Logistic Regression, and AdaBoost classifier. Includes feature engineering, class imbalance handling, and multi-class failure classification (TWF, HDF, PWF, OSF, RNF) using scikit-learn.
+
 The dataset is synthetically generated based on this dataset. The data contains 136429 rows and 14 columns, 5 of which are binary features of failure areas and 1 binary feature indicating the presence of machine failure regarding the area.
 Data description:
 
